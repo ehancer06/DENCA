@@ -1,7 +1,7 @@
 clc;
 clear;
 
-load 'datasets'/colon_tumor.mat;
+load 'datasets'/dna.mat;
 %load veri_vga16.mat;
 
 %[~,~,H]=feat_sel_sim([train,ytrain], 'luca', 2);
