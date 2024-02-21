@@ -10,4 +10,4 @@ https://doi.org/10.1016/j.knosys.2023.111008.
 
 For running the multi-objective version, please see run_mode
 
-For runnnig the single-objective version, please see psorun and derun
+For running the single-objective version, please see single_objective_scenario/psorun and single_objective_scenario/derun
