@@ -1,4 +1,4 @@
-# DENCA
+# DENCA and MODENCA
 Emrah Hancer, Bing Xue, Mengjie Zhang,
 An evolutionary filter approach to feature selection in classification for both single- and multi-objective scenarios,
 Knowledge-Based Systems,
