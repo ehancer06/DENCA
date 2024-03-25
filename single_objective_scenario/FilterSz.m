@@ -1,5 +1,3 @@
-% This function calculate trade-off between an accurasy and a dimension %
-% for feature selection problem                                          %
 function y = FilterSz(x, Param)
 
    
